@@ -1,5 +1,5 @@
-# ERIC Robotics Assignment - Hrishika Patil
-## Object Detection, Distance Estimation and Edge Optimization
+#  Object Detection, Distance Estimation & Edge Optimization - Hrishika Patil
+## A computer vision project focused on detecting navigation-relevant objects and estimating their distance from a camera or robot perspective using YOLO-based object detection.
 
 ### 1. Project Overview
 
@@ -48,7 +48,7 @@ The objectives of this project are:
 ## 4. Project Structure
 
 ```text
-ERIC_Robotics_Assignment/
+Object-Detection-Distance-Estimation/
 │
 ├── data/
 │   ├── images/
